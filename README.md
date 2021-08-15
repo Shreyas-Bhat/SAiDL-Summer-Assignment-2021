@@ -1,5 +1,5 @@
 # SAiDL-Summer-Assignment-2021
-This is the final submission to the [induction assignment](SAiDL Summer Assignment 2021.pdf) by [SAiDL](https://www.saidl.in/)
+This is the final submission to the [induction assignment](https://github.com/SforAiDl/Summer-Induction-Assignment-2021/blob/master/SAiDL%20Summer%20Assignment%202021.pdf) by [SAiDL](https://www.saidl.in/)
 ```
 project
 │   README.md
