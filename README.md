@@ -1,5 +1,6 @@
 # SAiDL-Summer-Assignment-2021
-This is the final submission to the [induction assignment](https://github.com/SforAiDl/Summer-Induction-Assignment-2021/blob/master/SAiDL%20Summer%20Assignment%202021.pdf) by [SAiDL](https://www.saidl.in/)
+* This is the final submission to the [induction assignment](https://github.com/SforAiDl/Summer-Induction-Assignment-2021/blob/master/SAiDL%20Summer%20Assignment%202021.pdf) by [SAiDL](https://www.saidl.in/)
+* My attempt at paper implementation: [Compact Transformers](https://github.com/Shreyas-Bhat/CompactTransformers)
 ```
 project
 │   README.md
@@ -7,14 +8,14 @@ project
 │
 └───CV
 │   │   Summary_CV.pdf
-│   │   file012.txt
-│   │
-│   └───
+│   │   Supervised_and_Self_Supervised.ipynb
+│   │   Semi_Supervised.ipynb
+│   │   AutoAugment.ipynb
 │       
 │       
 │   
 └───NLP
     │   Summary_NLP.pdf
-    │   NLPTask_1.ipynb
+    │   NLPTask.ipynb
     │   NLPTask_probe.ipynb
 ```
